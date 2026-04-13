@@ -53,12 +53,19 @@ This project implements a complete **ETL pipeline** using **KNIME**, integrating
 
 ## 📂 Project Structure
 etl_knime_dw/
+
 │
+
 ├── data/
+
 ├── diagrams/
+
 ├── notebooks/
+
 ├── sql/
+
 ├── workflows/
+
 ├── docker-compose.yml
 
 ---
