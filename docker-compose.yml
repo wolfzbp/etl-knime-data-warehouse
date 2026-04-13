@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+
+  mysql:
+    image: mysql:8
+    container_name: mysql_etl
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: origen_mysql
+    ports:
+      - "3307:3306"
+
+  postgres:
+    image: postgres:15
+    container_name: postgres_etl
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: origen_pg
+    ports:
+      - "5432:5432"
+
+  mongo:
+    image: mongo:6
+    container_name: mongo_etl
+    ports:
+      - "27017:27017"

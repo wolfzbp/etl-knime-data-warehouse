@@ -1,0 +1,550 @@
+[
+  {
+    "id_tienda": 1,
+    "nombre_tienda": "Tienda Desarrollo Gabaldón S.Coop.",
+    "ciudad": "Manta",
+    "provincia": "Manabí",
+    "region": "Costa",
+    "tipo_tienda": "Fisica",
+    "horarios": {
+      "lunes_viernes": "09:00-18:00",
+      "sabado": "10:00-16:00",
+      "domingo": "cerrado"
+    },
+    "contacto": {
+      "telefono": "+34 824 495 728",
+      "email": "nicolascanales@infraestructuras.com"
+    },
+    "servicios": [
+      "Retiro en tienda",
+      "Pago QR",
+      "Parqueadero",
+      "Soporte técnico"
+    ],
+    "rating": 3.9,
+    "geo": {
+      "lat": -0.638289,
+      "lon": -77.46846
+    }
+  },
+  {
+    "id_tienda": 2,
+    "nombre_tienda": "Tienda Familia Moll S.Coop.",
+    "ciudad": "Ambato",
+    "provincia": "Tungurahua",
+    "region": "Sierra",
+    "tipo_tienda": "Express",
+    "horarios": {
+      "lunes_viernes": "09:00-18:00",
+      "sabado": "10:00-16:00",
+      "domingo": "cerrado"
+    },
+    "contacto": {
+      "telefono": "+34 828 65 47 31",
+      "email": "fidelasales@hotel.es"
+    },
+    "servicios": [
+      "Entrega a domicilio",
+      "Soporte técnico",
+      "Retiro en tienda",
+      "Pago QR",
+      "Parqueadero"
+    ],
+    "rating": 4.7,
+    "geo": {
+      "lat": -0.849246,
+      "lon": -78.910028
+    }
+  },
+  {
+    "id_tienda": 3,
+    "nombre_tienda": "Tienda Marta Aguilera Fuertes S.Coop.",
+    "ciudad": "Gualaceo",
+    "provincia": "Azuay",
+    "region": "Sierra",
+    "tipo_tienda": "Outlet",
+    "horarios": {
+      "lunes_viernes": "09:00-18:00",
+      "sabado": "10:00-16:00",
+      "domingo": "10:00-14:00"
+    },
+    "contacto": {
+      "telefono": "+34 879352530",
+      "email": "ariadnaferran@hermanos.es"
+    },
+    "servicios": [
+      "Parqueadero",
+      "Entrega a domicilio",
+      "Retiro en tienda",
+      "Soporte técnico"
+    ],
+    "rating": 3.8,
+    "geo": {
+      "lat": -2.99868,
+      "lon": -76.138884
+    }
+  },
+  {
+    "id_tienda": 4,
+    "nombre_tienda": "Tienda Fuente & Asociados S.Coop.",
+    "ciudad": "Quito",
+    "provincia": "Pichincha",
+    "region": "Sierra",
+    "tipo_tienda": "Express",
+    "horarios": {
+      "lunes_viernes": "09:00-18:00",
+      "sabado": "10:00-16:00",
+      "domingo": "cerrado"
+    },
+    "contacto": {
+      "telefono": "+34 985 223 348",
+      "email": "vsoto@nicanor.com"
+    },
+    "servicios": [
+      "Retiro en tienda",
+      "Pago QR",
+      "Soporte técnico"
+    ],
+    "rating": 3.5,
+    "geo": {
+      "lat": -1.700755,
+      "lon": -75.249224
+    }
+  },
+  {
+    "id_tienda": 5,
+    "nombre_tienda": "Tienda Haroldo Daza Palomino S.Coop.",
+    "ciudad": "Durán",
+    "provincia": "Guayas",
+    "region": "Costa",
+    "tipo_tienda": "Outlet",
+    "horarios": {
+      "lunes_viernes": "09:00-18:00",
+      "sabado": "10:00-16:00",
+      "domingo": "cerrado"
+    },
+    "contacto": {
+      "telefono": "+34920 837 607",
+      "email": "rosateodora@julie.com"
+    },
+    "servicios": [
+      "Parqueadero",
+      "Entrega a domicilio",
+      "Soporte técnico",
+      "Pago QR",
+      "Retiro en tienda"
+    ],
+    "rating": 4.3,
+    "geo": {
+      "lat": -2.555821,
+      "lon": -76.771586
+    }
+  },
+  {
+    "id_tienda": 6,
+    "nombre_tienda": "Tienda Infraestructuras del Levante S.L.N.E",
+    "ciudad": "Durán",
+    "provincia": "Guayas",
+    "region": "Costa",
+    "tipo_tienda": "Fisica",
+    "horarios": {
+      "lunes_viernes": "09:00-18:00",
+      "sabado": "10:00-16:00",
+      "domingo": "cerrado"
+    },
+    "contacto": {
+      "telefono": "+34872726361",
+      "email": "tono43@comercial.es"
+    },
+    "servicios": [
+      "Soporte técnico",
+      "Pago QR",
+      "Entrega a domicilio"
+    ],
+    "rating": 4.0,
+    "geo": {
+      "lat": -3.188233,
+      "lon": -75.824181
+    }
+  },
+  {
+    "id_tienda": 7,
+    "nombre_tienda": "Tienda Adelaida Cervera Benavides S.A.",
+    "ciudad": "Baños",
+    "provincia": "Tungurahua",
+    "region": "Sierra",
+    "tipo_tienda": "Mall",
+    "horarios": {
+      "lunes_viernes": "09:00-18:00",
+      "sabado": "10:00-16:00",
+      "domingo": "10:00-14:00"
+    },
+    "contacto": {
+      "telefono": "+34878862262",
+      "email": "kcozar@banca.com"
+    },
+    "servicios": [
+      "Soporte técnico",
+      "Pago QR"
+    ],
+    "rating": 4.7,
+    "geo": {
+      "lat": -1.413187,
+      "lon": -76.11757
+    }
+  },
+  {
+    "id_tienda": 8,
+    "nombre_tienda": "Tienda Hermanos Abella S.A.",
+    "ciudad": "Santa Rosa",
+    "provincia": "El Oro",
+    "region": "Costa",
+    "tipo_tienda": "Fisica",
+    "horarios": {
+      "lunes_viernes": "09:00-18:00",
+      "sabado": "10:00-16:00",
+      "domingo": "cerrado"
+    },
+    "contacto": {
+      "telefono": "+34828 349 079",
+      "email": "pbarros@ceferino.com"
+    },
+    "servicios": [
+      "Entrega a domicilio",
+      "Retiro en tienda",
+      "Parqueadero",
+      "Pago QR"
+    ],
+    "rating": 3.5,
+    "geo": {
+      "lat": -1.032817,
+      "lon": -77.935051
+    }
+  },
+  {
+    "id_tienda": 9,
+    "nombre_tienda": "Tienda Grupo Perea S.A.",
+    "ciudad": "Manta",
+    "provincia": "Manabí",
+    "region": "Costa",
+    "tipo_tienda": "Mall",
+    "horarios": {
+      "lunes_viernes": "09:00-18:00",
+      "sabado": "10:00-16:00",
+      "domingo": "10:00-14:00"
+    },
+    "contacto": {
+      "telefono": "+34945 18 23 48",
+      "email": "monrealapolonia@soluciones.es"
+    },
+    "servicios": [
+      "Parqueadero",
+      "Retiro en tienda",
+      "Soporte técnico"
+    ],
+    "rating": 3.5,
+    "geo": {
+      "lat": -3.055826,
+      "lon": -79.877409
+    }
+  },
+  {
+    "id_tienda": 10,
+    "nombre_tienda": "Tienda Hnos Samper S.C.P",
+    "ciudad": "Manta",
+    "provincia": "Manabí",
+    "region": "Costa",
+    "tipo_tienda": "Express",
+    "horarios": {
+      "lunes_viernes": "09:00-18:00",
+      "sabado": "10:00-16:00",
+      "domingo": "cerrado"
+    },
+    "contacto": {
+      "telefono": "+34 943 727 629",
+      "email": "lorenzoacevedo@hnos.net"
+    },
+    "servicios": [
+      "Retiro en tienda",
+      "Pago QR",
+      "Parqueadero",
+      "Soporte técnico",
+      "Entrega a domicilio"
+    ],
+    "rating": 4.4,
+    "geo": {
+      "lat": -2.421848,
+      "lon": -75.960649
+    }
+  },
+  {
+    "id_tienda": 11,
+    "nombre_tienda": "Tienda Comercial Calzada y asociados S.Coop.",
+    "ciudad": "Manta",
+    "provincia": "Manabí",
+    "region": "Costa",
+    "tipo_tienda": "Fisica",
+    "horarios": {
+      "lunes_viernes": "09:00-18:00",
+      "sabado": "10:00-16:00",
+      "domingo": "cerrado"
+    },
+    "contacto": {
+      "telefono": "+34900805841",
+      "email": "candelario36@fabrica.net"
+    },
+    "servicios": [
+      "Soporte técnico",
+      "Entrega a domicilio",
+      "Retiro en tienda"
+    ],
+    "rating": 3.6,
+    "geo": {
+      "lat": -3.056648,
+      "lon": -76.315559
+    }
+  },
+  {
+    "id_tienda": 12,
+    "nombre_tienda": "Tienda Báez y asociados S.Com.",
+    "ciudad": "Baños",
+    "provincia": "Tungurahua",
+    "region": "Sierra",
+    "tipo_tienda": "Fisica",
+    "horarios": {
+      "lunes_viernes": "09:00-18:00",
+      "sabado": "10:00-16:00",
+      "domingo": "cerrado"
+    },
+    "contacto": {
+      "telefono": "+34886311126",
+      "email": "garana@finanzas.es"
+    },
+    "servicios": [
+      "Pago QR",
+      "Soporte técnico",
+      "Parqueadero",
+      "Entrega a domicilio"
+    ],
+    "rating": 4.6,
+    "geo": {
+      "lat": -2.293167,
+      "lon": -79.688748
+    }
+  },
+  {
+    "id_tienda": 13,
+    "nombre_tienda": "Tienda Barriga y Lastra S.A.",
+    "ciudad": "Manta",
+    "provincia": "Manabí",
+    "region": "Costa",
+    "tipo_tienda": "Outlet",
+    "horarios": {
+      "lunes_viernes": "09:00-18:00",
+      "sabado": "10:00-16:00",
+      "domingo": "10:00-14:00"
+    },
+    "contacto": {
+      "telefono": "+34803187807",
+      "email": "rortega@promociones.org"
+    },
+    "servicios": [
+      "Parqueadero",
+      "Soporte técnico"
+    ],
+    "rating": 3.8,
+    "geo": {
+      "lat": -0.416357,
+      "lon": -78.365581
+    }
+  },
+  {
+    "id_tienda": 14,
+    "nombre_tienda": "Tienda Candelas Godoy Ferrer S.L.",
+    "ciudad": "Quito",
+    "provincia": "Pichincha",
+    "region": "Sierra",
+    "tipo_tienda": "Outlet",
+    "horarios": {
+      "lunes_viernes": "09:00-18:00",
+      "sabado": "10:00-16:00",
+      "domingo": "10:00-14:00"
+    },
+    "contacto": {
+      "telefono": "+34 902 517 651",
+      "email": "augusto96@instalaciones.com"
+    },
+    "servicios": [
+      "Retiro en tienda",
+      "Pago QR",
+      "Entrega a domicilio",
+      "Soporte técnico",
+      "Parqueadero"
+    ],
+    "rating": 4.2,
+    "geo": {
+      "lat": -1.838596,
+      "lon": -77.418854
+    }
+  },
+  {
+    "id_tienda": 15,
+    "nombre_tienda": "Tienda Osorio y asociados S.Coop.",
+    "ciudad": "Durán",
+    "provincia": "Guayas",
+    "region": "Costa",
+    "tipo_tienda": "Express",
+    "horarios": {
+      "lunes_viernes": "09:00-18:00",
+      "sabado": "10:00-16:00",
+      "domingo": "10:00-14:00"
+    },
+    "contacto": {
+      "telefono": "+34821955037",
+      "email": "dnoguera@encarnita.es"
+    },
+    "servicios": [
+      "Pago QR",
+      "Entrega a domicilio",
+      "Parqueadero",
+      "Retiro en tienda"
+    ],
+    "rating": 4.9,
+    "geo": {
+      "lat": 0.462431,
+      "lon": -75.797714
+    }
+  },
+  {
+    "id_tienda": 16,
+    "nombre_tienda": "Tienda Galan y asociados S.A.",
+    "ciudad": "Samborondón",
+    "provincia": "Guayas",
+    "region": "Costa",
+    "tipo_tienda": "Outlet",
+    "horarios": {
+      "lunes_viernes": "09:00-18:00",
+      "sabado": "10:00-16:00",
+      "domingo": "cerrado"
+    },
+    "contacto": {
+      "telefono": "+34 876 28 32 98",
+      "email": "ztorrecilla@salva.net"
+    },
+    "servicios": [
+      "Soporte técnico",
+      "Retiro en tienda",
+      "Pago QR"
+    ],
+    "rating": 3.9,
+    "geo": {
+      "lat": -3.789142,
+      "lon": -77.205588
+    }
+  },
+  {
+    "id_tienda": 17,
+    "nombre_tienda": "Tienda Grupo Carmona S.A.",
+    "ciudad": "Santa Rosa",
+    "provincia": "El Oro",
+    "region": "Costa",
+    "tipo_tienda": "Mall",
+    "horarios": {
+      "lunes_viernes": "09:00-18:00",
+      "sabado": "10:00-16:00",
+      "domingo": "10:00-14:00"
+    },
+    "contacto": {
+      "telefono": "+34 927 23 08 28",
+      "email": "jose-maria66@quiros.net"
+    },
+    "servicios": [
+      "Entrega a domicilio",
+      "Parqueadero"
+    ],
+    "rating": 4.1,
+    "geo": {
+      "lat": -3.108872,
+      "lon": -75.381983
+    }
+  },
+  {
+    "id_tienda": 18,
+    "nombre_tienda": "Tienda Hnos Aguiló S.L.N.E",
+    "ciudad": "Gualaceo",
+    "provincia": "Azuay",
+    "region": "Sierra",
+    "tipo_tienda": "Mall",
+    "horarios": {
+      "lunes_viernes": "09:00-18:00",
+      "sabado": "10:00-16:00",
+      "domingo": "10:00-14:00"
+    },
+    "contacto": {
+      "telefono": "+34922253401",
+      "email": "castillache@soluciones.org"
+    },
+    "servicios": [
+      "Entrega a domicilio",
+      "Parqueadero"
+    ],
+    "rating": 4.3,
+    "geo": {
+      "lat": -1.013555,
+      "lon": -75.899363
+    }
+  },
+  {
+    "id_tienda": 19,
+    "nombre_tienda": "Tienda Leon & Asociados S.Coop.",
+    "ciudad": "Baños",
+    "provincia": "Tungurahua",
+    "region": "Sierra",
+    "tipo_tienda": "Outlet",
+    "horarios": {
+      "lunes_viernes": "09:00-18:00",
+      "sabado": "10:00-16:00",
+      "domingo": "10:00-14:00"
+    },
+    "contacto": {
+      "telefono": "+34887212578",
+      "email": "anibalalmansa@hnos.com"
+    },
+    "servicios": [
+      "Parqueadero",
+      "Soporte técnico",
+      "Retiro en tienda"
+    ],
+    "rating": 4.7,
+    "geo": {
+      "lat": -2.811224,
+      "lon": -77.532398
+    }
+  },
+  {
+    "id_tienda": 20,
+    "nombre_tienda": "Tienda Manufacturas del Sur S.A.",
+    "ciudad": "Baños",
+    "provincia": "Tungurahua",
+    "region": "Sierra",
+    "tipo_tienda": "Express",
+    "horarios": {
+      "lunes_viernes": "09:00-18:00",
+      "sabado": "10:00-16:00",
+      "domingo": "cerrado"
+    },
+    "contacto": {
+      "telefono": "+34 979 906 709",
+      "email": "qquero@ordonez.es"
+    },
+    "servicios": [
+      "Entrega a domicilio",
+      "Parqueadero"
+    ],
+    "rating": 3.2,
+    "geo": {
+      "lat": 0.147164,
+      "lon": -80.052099
+    }
+  }
+]

@@ -1,0 +1,301 @@
+id_cliente,nombre,apellido,email,telefono,ciudad,provincia,segmento,fecha_registro,edad,genero
+1,Valeria,Gonzalez,maria-del-carmen81@example.com,+34955 054 927,Portoviejo,Manabí,Nuevo,2023-04-09,61,Femenino
+2,Lucho,Royo,abellancustodio@example.net,+34 847 19 61 45,Quito,Pichincha,Frecuente,2024-08-27,69,Femenino
+3,Florencio,Montenegro,vheras@example.net,+34820 60 93 36,Portoviejo,Manabí,Frecuente,2026-01-14,31,No especificado
+4,David,Montenegro,ifranco@example.org,+34980 65 78 83,Santa Rosa,El Oro,Nuevo,2024-07-01,59,Femenino
+5,Gregorio,Avilés,cabreroamerica@example.com,+34983029796,Portoviejo,Manabí,Nuevo,2025-12-14,34,Masculino
+6,Sergio,Pou,gjulia@example.com,+34 821569964,Samborondón,Guayas,Corporativo,2025-07-23,65,No especificado
+7,Loreto,Pulido,somozaarmida@example.net,+34883199085,Portoviejo,Manabí,Corporativo,2025-10-25,32,Masculino
+8,Ema,Fuster,leandro50@example.org,+34924 268 865,Baños,Tungurahua,Frecuente,2025-07-19,66,Masculino
+9,Sarita,Bejarano,arnaizjaime@example.com,+34878 79 96 96,Quito,Pichincha,Nuevo,2025-11-23,68,No especificado
+10,Verónica,Carnero,waroca@example.com,+34901 526 284,Manta,Manabí,Premium,2024-06-08,42,No especificado
+11,María Cristina,Navarro,pnunez@example.org,+34 958 706 416,Portoviejo,Manabí,Frecuente,2025-11-28,61,No especificado
+12,Herberto,Castelló,obarrios@example.org,+34976 76 22 57,Rumiñahui,Pichincha,Corporativo,2025-03-07,67,No especificado
+13,Eustaquio,Sáenz,becerranestor@example.com,+34 879717526,Cuenca,Azuay,Corporativo,2025-08-13,45,Masculino
+14,Fausto,Villalonga,nieves35@example.org,+34941 573 971,Manta,Manabí,Corporativo,2024-06-07,50,Masculino
+15,Belen,Barberá,kuriarte@example.net,+34 880421607,Ambato,Tungurahua,Corporativo,2023-09-29,71,No especificado
+16,Manola,Asenjo,canovaslazaro@example.com,+34 872 977 998,Ambato,Tungurahua,Nuevo,2024-07-26,41,Masculino
+17,Camila,Aguilar,dafne82@example.com,+34938881185,Ambato,Tungurahua,Corporativo,2024-09-15,49,Masculino
+18,María,Tudela,daniela62@example.com,+34803 01 21 20,Cayambe,Pichincha,Corporativo,2025-02-20,33,Masculino
+19,Borja,Reina,ylucena@example.com,+34 949647720,Samborondón,Guayas,Frecuente,2024-11-19,23,No especificado
+20,Venceslás,Carbajo,fernandahernandez@example.com,+34 941 72 42 80,Manta,Manabí,Nuevo,2025-01-24,26,No especificado
+21,Paca,Diez,javieraurrutia@example.net,+34844 345 005,Manta,Manabí,Corporativo,2025-01-21,51,No especificado
+22,Eusebia,Guitart,terronricardo@example.org,+34977711549,Manta,Manabí,Nuevo,2023-09-14,63,Femenino
+23,Jafet,Duarte,qgutierrez@example.org,+34 844 498 721,Portoviejo,Manabí,Premium,2026-01-06,75,No especificado
+24,Alondra,Álvaro,qvalcarcel@example.net,+34 847 39 95 97,Manta,Manabí,Nuevo,2024-08-07,32,Masculino
+25,Coral,Ros,ildefonsogarcia@example.org,+34 847 80 47 80,Cuenca,Azuay,Nuevo,2024-10-07,55,Masculino
+26,Camilo,Uribe,carmelitacorominas@example.com,+34 928069086,Quito,Pichincha,Frecuente,2024-04-10,32,Masculino
+27,Godofredo,Cerezo,ciriaco00@example.org,+34978856876,Cayambe,Pichincha,Frecuente,2024-07-05,50,Masculino
+28,Bernardo,Prats,encarnaciongutierrez@example.com,+34826 310 365,Gualaceo,Azuay,Nuevo,2024-09-24,52,Masculino
+29,Espiridión,Torrent,abru@example.com,+34727 24 55 01,Santa Rosa,El Oro,Nuevo,2024-03-22,68,Femenino
+30,Pastor,Aramburu,francisco-javierchacon@example.net,+34 720 67 22 87,Manta,Manabí,Frecuente,2025-09-24,24,No especificado
+31,Luna,Milla,ninocebrian@example.net,+34 928 034 686,Portoviejo,Manabí,Premium,2023-09-09,44,Femenino
+32,Severiano,Vilar,ainarallopis@example.org,+34885 30 18 76,Machala,El Oro,Frecuente,2023-09-16,21,Femenino
+33,Etelvina,Escalona,priscila25@example.org,+34 822 424 557,Santa Rosa,El Oro,Frecuente,2024-02-19,33,Masculino
+34,Luciano,Cabello,casemiro96@example.org,+34986 44 69 71,Samborondón,Guayas,Premium,2024-02-24,26,Femenino
+35,Jesusa,Céspedes,edelmiro86@example.com,+34976 71 28 81,Durán,Guayas,Premium,2025-11-24,33,Masculino
+36,Pacífica,Goicoechea,rcomas@example.net,+34825 30 66 99,Manta,Manabí,Frecuente,2023-10-31,59,No especificado
+37,Isidro,Mancebo,ildefonso41@example.net,+34725945630,Quito,Pichincha,Nuevo,2026-04-01,28,Femenino
+38,Amarilis,Bermejo,marcelino39@example.org,+34 976 66 56 96,Portoviejo,Manabí,Nuevo,2025-04-13,73,Femenino
+39,Juanita,Jiménez,tadeo96@example.net,+34 807 158 593,Quito,Pichincha,Premium,2024-12-30,18,Femenino
+40,Angelina,España,pepitavelez@example.net,+34847 361 744,Gualaceo,Azuay,Corporativo,2023-06-02,45,No especificado
+41,Jonatan,Roig,antunezflorinda@example.net,+34 925199423,Santa Rosa,El Oro,Nuevo,2025-02-20,30,Femenino
+42,Yéssica,Mora,marinalberto@example.net,+34 745719072,Guayaquil,Guayas,Frecuente,2026-03-04,65,Femenino
+43,Ramona,Castañeda,eferran@example.net,+34806 229 522,Quito,Pichincha,Premium,2024-11-26,50,No especificado
+44,Cristina,Barros,bibiana76@example.com,+34972075940,Guayaquil,Guayas,Frecuente,2023-08-28,72,Masculino
+45,Ágata,Gárate,juan-carloscastellanos@example.net,+34 922 144 293,Rumiñahui,Pichincha,Frecuente,2024-01-05,61,Masculino
+46,Ana Sofía,Melero,angulomaria-pilar@example.com,+34988135982,Manta,Manabí,Nuevo,2024-04-28,55,No especificado
+47,Hortensia,Olivé,saturnina51@example.org,+34820714548,Rumiñahui,Pichincha,Frecuente,2026-02-17,44,No especificado
+48,Pánfilo,Abad,ralfonso@example.com,+34 820 11 04 33,Baños,Tungurahua,Corporativo,2023-08-16,31,No especificado
+49,Hugo,Daza,campsedelmira@example.net,+34 925487490,Santa Rosa,El Oro,Nuevo,2025-08-16,34,Femenino
+50,Jose Ignacio,Belmonte,uprieto@example.com,+34 972 881 129,Samborondón,Guayas,Corporativo,2025-04-25,47,Femenino
+51,Andrés Felipe,Salinas,ramon35@example.org,+34975 60 36 35,Quito,Pichincha,Premium,2024-10-06,57,No especificado
+52,Plácido,Polo,boixatilio@example.com,+34881670689,Quito,Pichincha,Nuevo,2025-02-10,50,Femenino
+53,Reina,Leiva,fquiros@example.org,+34 987 79 03 03,Durán,Guayas,Frecuente,2025-10-14,74,Masculino
+54,Chucho,Azorin,mroman@example.org,+34942 28 71 84,Gualaceo,Azuay,Nuevo,2025-04-01,46,No especificado
+55,Azahara,Gargallo,xaliaga@example.com,+34902 55 62 41,Santa Rosa,El Oro,Frecuente,2023-09-22,60,No especificado
+56,Verónica,Alcolea,apoloniaamoros@example.com,+34800 01 99 42,Cuenca,Azuay,Nuevo,2024-05-21,34,Masculino
+57,Prudencia,Feliu,miglesia@example.org,+34 927085105,Rumiñahui,Pichincha,Nuevo,2023-07-02,35,Femenino
+58,Fulgencio,Mas,adoraanglada@example.com,+34 984 25 02 56,Ambato,Tungurahua,Corporativo,2024-07-10,31,No especificado
+59,Anna,Rocha,salasencarna@example.org,+34 800 61 06 92,Santa Rosa,El Oro,Premium,2024-02-29,34,Masculino
+60,Amparo,Quintana,ilujan@example.org,+34920495623,Rumiñahui,Pichincha,Premium,2024-10-23,71,Femenino
+61,Rosalina,Flores,vborrell@example.org,+34871 609 370,Quito,Pichincha,Corporativo,2023-09-05,67,Masculino
+62,Margarita,Mora,bertaagudo@example.org,+34 815512962,Santa Rosa,El Oro,Nuevo,2023-04-11,65,Femenino
+63,Custodia,Pi,vportero@example.net,+34 828 21 57 02,Baños,Tungurahua,Frecuente,2025-04-30,25,Masculino
+64,Epifanio,Elías,bortega@example.org,+34879411478,Machala,El Oro,Frecuente,2024-11-18,71,Femenino
+65,Zacarías,Casal,virgilionavarro@example.org,+34878 39 41 06,Ambato,Tungurahua,Premium,2024-01-19,26,Masculino
+66,Zacarías,Almazán,blazquezflorinda@example.org,+34880 175 363,Gualaceo,Azuay,Frecuente,2023-10-04,75,Femenino
+67,Galo,Azorin,pardoflorentino@example.org,+34842 20 86 44,Samborondón,Guayas,Nuevo,2025-12-23,60,Masculino
+68,Sigfrido,Jiménez,pozoazahara@example.net,+34 919 94 15 18,Gualaceo,Azuay,Nuevo,2023-05-25,33,Masculino
+69,Candelas,Santos,julieta97@example.com,+34 705 79 11 40,Durán,Guayas,Frecuente,2026-03-27,29,No especificado
+70,Abraham,Barco,wibanez@example.org,+34842930229,Gualaceo,Azuay,Nuevo,2024-01-22,35,Masculino
+71,Inmaculada,Cerdá,hildacarreras@example.com,+34718 054 792,Machala,El Oro,Premium,2025-07-01,73,Masculino
+72,Ramona,Sánchez,raimundo86@example.net,+34 823534505,Manta,Manabí,Nuevo,2025-05-03,70,Femenino
+73,Araceli,Gonzalo,banosbrunilda@example.org,+34 875297780,Gualaceo,Azuay,Nuevo,2026-01-24,32,Masculino
+74,Leopoldo,Estrada,berto13@example.net,+34 982612067,Machala,El Oro,Premium,2024-11-20,39,Femenino
+75,Damián,Rivero,vilma89@example.net,+34975 06 46 79,Cayambe,Pichincha,Corporativo,2026-01-08,59,No especificado
+76,David,Figuerola,remediosiniguez@example.org,+34885 44 01 67,Portoviejo,Manabí,Frecuente,2024-06-03,25,Femenino
+77,Gustavo,Amat,severo35@example.com,+34 973077419,Samborondón,Guayas,Corporativo,2024-04-13,20,Masculino
+78,Cirino,Borja,aayllon@example.net,+34712 977 440,Baños,Tungurahua,Corporativo,2024-02-13,64,Femenino
+79,Casandra,Alberdi,sarita66@example.net,+34972966480,Manta,Manabí,Premium,2024-02-07,75,No especificado
+80,Severiano,Cortina,matiascasares@example.net,+34875661994,Durán,Guayas,Frecuente,2026-01-21,63,Femenino
+81,Ambrosio,Boix,azenethpizarro@example.net,+34971064479,Rumiñahui,Pichincha,Nuevo,2025-12-13,41,Femenino
+82,Victoriano,Orozco,esteveznicodemo@example.net,+34843 75 10 71,Rumiñahui,Pichincha,Corporativo,2024-11-13,57,Femenino
+83,Román,Bejarano,nelida64@example.com,+34655 49 19 29,Machala,El Oro,Corporativo,2024-03-07,50,Femenino
+84,Marcos,Carnero,lladonazaret@example.net,+34 710 91 26 75,Santa Rosa,El Oro,Corporativo,2024-04-16,43,No especificado
+85,Marina,Morera,nunezjose-antonio@example.com,+34847195098,Cuenca,Azuay,Nuevo,2025-06-24,44,No especificado
+86,Román,Amaya,garmendiaprimitivo@example.com,+34 946 11 44 57,Manta,Manabí,Corporativo,2024-06-30,43,No especificado
+87,Silvia,Tolosa,cortinayessica@example.org,+34 922 55 27 05,Cayambe,Pichincha,Corporativo,2023-11-02,31,Femenino
+88,Adán,Alfaro,vidal82@example.com,+34955 03 80 95,Baños,Tungurahua,Premium,2023-08-17,46,Femenino
+89,Ismael,Aliaga,elorzapascuala@example.net,+34880 74 84 43,Machala,El Oro,Premium,2025-02-18,68,No especificado
+90,Perla,Belmonte,halba@example.com,+34980 849 419,Samborondón,Guayas,Frecuente,2025-06-09,36,No especificado
+91,Lupe,Ferrer,montenegrojorge@example.org,+34826 087 265,Santa Rosa,El Oro,Frecuente,2024-06-30,70,Masculino
+92,Jordán,Seco,gervasio30@example.org,+34983 977 550,Santa Rosa,El Oro,Nuevo,2026-01-26,69,Masculino
+93,Gilberto,Barrera,kvargas@example.com,+34820 780 081,Guayaquil,Guayas,Frecuente,2025-05-05,33,Femenino
+94,Carolina,Manzano,norberto12@example.org,+34875294981,Ambato,Tungurahua,Premium,2024-10-02,44,No especificado
+95,Áurea,Gilabert,uarroyo@example.net,+34 927133812,Ambato,Tungurahua,Premium,2025-07-25,49,Femenino
+96,Hilda,Palmer,escrivarosario@example.com,+34 863 88 69 35,Guayaquil,Guayas,Frecuente,2025-09-11,75,Masculino
+97,Adolfo,Echevarría,concepcionsalcedo@example.org,+34842 42 36 81,Manta,Manabí,Nuevo,2023-11-22,69,No especificado
+98,Regina,Ríos,zartigas@example.com,+34843029624,Baños,Tungurahua,Frecuente,2025-11-01,53,Masculino
+99,Édgar,Cuenca,amaya77@example.net,+34947622708,Cayambe,Pichincha,Nuevo,2024-03-15,69,Femenino
+100,Abigaíl,Montalbán,guzmanguadalupe@example.com,+34 986 90 35 64,Santa Rosa,El Oro,Premium,2025-04-23,57,No especificado
+101,Nazaret,Fuster,azconaalfredo@example.org,+34 973 25 07 58,Baños,Tungurahua,Premium,2024-04-16,75,Masculino
+102,Maricruz,Heredia,romeromatias@example.org,+34828278526,Santa Rosa,El Oro,Premium,2024-12-04,34,Masculino
+103,Florencio,Ponce,rolandopuig@example.org,+34985074259,Santa Rosa,El Oro,Premium,2024-07-24,58,Masculino
+104,Balduino,Costa,arellanolucas@example.com,+34862 772 684,Gualaceo,Azuay,Frecuente,2025-04-25,63,Femenino
+105,Luz,Mayol,adalbertogracia@example.org,+34 988 918 223,Durán,Guayas,Corporativo,2024-12-12,38,No especificado
+106,Custodio,Cabeza,dionisio81@example.org,+34 943 44 06 74,Quito,Pichincha,Nuevo,2023-07-15,32,Femenino
+107,Tere,Pellicer,rodaruth@example.org,+34974451701,Machala,El Oro,Nuevo,2025-04-17,22,Femenino
+108,Bernarda,Polo,villaverdepastor@example.net,+34984644572,Portoviejo,Manabí,Premium,2025-11-11,44,Masculino
+109,Mariano,Gámez,iamoros@example.org,+34 978906290,Durán,Guayas,Premium,2025-02-12,75,No especificado
+110,Teo,Sobrino,qsegura@example.com,+34820452429,Machala,El Oro,Premium,2023-12-30,48,Masculino
+111,Maricruz,Sureda,rarmas@example.org,+34 883 856 713,Gualaceo,Azuay,Premium,2026-02-13,72,Femenino
+112,Ramiro,Vera,fabricio68@example.net,+34 823 73 41 58,Ambato,Tungurahua,Premium,2023-05-03,32,Femenino
+113,Sofía,Morcillo,breig@example.net,+34 731943193,Portoviejo,Manabí,Frecuente,2025-09-15,42,Femenino
+114,Natalio,Laguna,sfortuny@example.net,+34984 72 42 57,Santa Rosa,El Oro,Nuevo,2024-08-10,71,Femenino
+115,Olimpia,Ferreras,asantamaria@example.net,+34 848997803,Samborondón,Guayas,Frecuente,2024-02-20,43,No especificado
+116,Angelina,Porcel,aranaciriaco@example.net,+34 980 01 64 11,Ambato,Tungurahua,Frecuente,2025-12-13,59,Femenino
+117,Vicente,Escobar,mauriciopuente@example.org,+34 827 730 576,Durán,Guayas,Nuevo,2024-01-21,21,Femenino
+118,Florencia,Montoya,ordonezanacleto@example.org,+34 923690604,Portoviejo,Manabí,Nuevo,2025-03-10,47,Femenino
+119,Aitor,Hierro,florenciabelmonte@example.org,+34 949 27 95 67,Gualaceo,Azuay,Corporativo,2025-05-24,66,Femenino
+120,Berta,Solera,pili47@example.net,+34923 904 669,Cuenca,Azuay,Premium,2026-03-28,19,No especificado
+121,Olivia,Ródenas,companyemiliano@example.net,+34965991563,Ambato,Tungurahua,Corporativo,2024-05-16,32,No especificado
+122,Martin,Fortuny,borjasilvio@example.net,+34 900014338,Rumiñahui,Pichincha,Frecuente,2025-03-18,66,Masculino
+123,Wilfredo,Duran,ofortuny@example.org,+34827 87 36 24,Guayaquil,Guayas,Frecuente,2025-09-23,57,Masculino
+124,Cipriano,Serrano,garciapascuala@example.org,+34881 120 634,Guayaquil,Guayas,Premium,2024-03-14,60,Masculino
+125,Baudelio,Uribe,andresfito@example.com,+34 735 69 89 62,Ambato,Tungurahua,Premium,2025-01-22,62,Femenino
+126,Angélica,Iborra,isaura75@example.org,+34981025196,Cuenca,Azuay,Frecuente,2023-10-27,67,Masculino
+127,Mariano,Portero,jaraanita@example.org,+34 884 26 61 62,Cuenca,Azuay,Frecuente,2024-04-24,37,No especificado
+128,Jose Angel,Ocaña,lasajuan-jose@example.com,+34 873399132,Santa Rosa,El Oro,Premium,2024-08-16,63,Masculino
+129,Bruno,Verdugo,jfabregas@example.org,+34 975 73 55 22,Rumiñahui,Pichincha,Nuevo,2024-01-01,24,No especificado
+130,Gerardo,Cózar,cangel@example.net,+34 945 188 765,Cuenca,Azuay,Frecuente,2024-07-12,40,No especificado
+131,Aurelia,Valenzuela,carlosangel@example.org,+34 971 09 18 45,Portoviejo,Manabí,Frecuente,2024-05-15,50,No especificado
+132,Cristian,Mendizábal,juan-bautistatena@example.com,+34 875 20 00 64,Cuenca,Azuay,Premium,2023-08-03,70,Femenino
+133,Carmelita,Gallo,acespedes@example.com,+34818 199 194,Cayambe,Pichincha,Corporativo,2025-02-17,58,Femenino
+134,Daniel,Ballester,miguelareig@example.net,+34980 410 768,Machala,El Oro,Premium,2025-04-18,29,No especificado
+135,Amor,Beltrán,roselloreinaldo@example.net,+34 875 59 11 84,Baños,Tungurahua,Premium,2024-09-18,47,Femenino
+136,Dulce,Rebollo,cleto97@example.net,+34 872231669,Santa Rosa,El Oro,Corporativo,2023-06-15,72,Masculino
+137,Coral,Balaguer,susanapinilla@example.org,+34 947 362 046,Cayambe,Pichincha,Premium,2024-12-10,33,Femenino
+138,Mohamed,Pedrero,jacintaesteve@example.org,+34878 57 07 35,Baños,Tungurahua,Corporativo,2024-02-09,19,Femenino
+139,Carlos,Velasco,alberolajose-antonio@example.com,+34984 43 55 51,Cuenca,Azuay,Premium,2024-09-07,31,Femenino
+140,Atilio,Giménez,wginer@example.org,+34 831 285 788,Gualaceo,Azuay,Corporativo,2024-12-26,74,No especificado
+141,Emma,Pineda,fustermarino@example.com,+34806 623 055,Santa Rosa,El Oro,Frecuente,2024-09-12,51,Masculino
+142,Samanta,Castells,ritaamo@example.org,+34 803 89 68 08,Quito,Pichincha,Premium,2024-03-06,49,No especificado
+143,Conrado,Vizcaíno,zescriva@example.net,+34742 578 426,Samborondón,Guayas,Premium,2025-02-02,59,No especificado
+144,Galo,Esteve,mariscaltamara@example.org,+34 828038355,Portoviejo,Manabí,Frecuente,2025-09-26,23,Femenino
+145,Hermenegildo,Cuesta,ftena@example.com,+34 928113573,Durán,Guayas,Nuevo,2023-08-30,37,No especificado
+146,Lino,Oliver,virginiaviana@example.org,+34 843 80 81 41,Baños,Tungurahua,Premium,2023-07-03,53,No especificado
+147,Vilma,Camino,modestogoni@example.net,+34842683758,Gualaceo,Azuay,Corporativo,2023-09-14,40,No especificado
+148,Dulce,Cobos,marciano65@example.org,+34887 19 63 01,Portoviejo,Manabí,Corporativo,2023-05-29,34,Masculino
+149,Custodio,Torre,anitairiarte@example.net,+34725212799,Rumiñahui,Pichincha,Nuevo,2024-09-08,38,Masculino
+150,Francisco,Jáuregui,amilcarrico@example.org,+34924 845 614,Machala,El Oro,Nuevo,2025-02-18,31,No especificado
+151,Federico,Cortes,fbarreda@example.com,+34 887 31 55 66,Portoviejo,Manabí,Corporativo,2026-03-14,24,Masculino
+152,Eloísa,Linares,pcuadrado@example.com,+34 855 76 87 59,Cuenca,Azuay,Corporativo,2026-02-25,29,Femenino
+153,Gaspar,Pizarro,judith61@example.com,+34821 77 86 26,Rumiñahui,Pichincha,Nuevo,2023-09-15,35,Masculino
+154,Morena,Hierro,apariciojose-miguel@example.com,+34 823 44 06 57,Rumiñahui,Pichincha,Corporativo,2024-12-18,62,Masculino
+155,Geraldo,Mur,marisaaleman@example.org,+34984 878 077,Santa Rosa,El Oro,Frecuente,2023-05-25,73,Masculino
+156,Gracia,Montesinos,velazquezaura@example.org,+34803107790,Baños,Tungurahua,Premium,2025-12-01,48,Femenino
+157,Concepción,Morell,leonardo45@example.com,+34 871 63 20 67,Cuenca,Azuay,Frecuente,2025-11-21,34,Femenino
+158,Conrado,Tudela,cesarfrutos@example.com,+34 887391990,Quito,Pichincha,Premium,2026-04-02,49,Masculino
+159,Benigna,Viña,aarribas@example.net,+34 984 17 06 20,Ambato,Tungurahua,Nuevo,2023-08-08,27,No especificado
+160,Natalia,Badía,dimas34@example.com,+34 872 660 774,Cuenca,Azuay,Nuevo,2024-05-25,25,No especificado
+161,Manuelita,Sarmiento,teogelabert@example.org,+34 872 432 006,Manta,Manabí,Premium,2024-12-02,46,Femenino
+162,Ema,Cortina,pastora71@example.net,+34980 12 90 28,Gualaceo,Azuay,Corporativo,2026-03-12,54,No especificado
+163,Amancio,Palomino,mar07@example.com,+34627285625,Rumiñahui,Pichincha,Frecuente,2024-07-26,66,Masculino
+164,Marciano,Miguel,batienza@example.com,+34941445575,Machala,El Oro,Corporativo,2025-03-16,60,Masculino
+165,Manu,Juliá,psegui@example.net,+34821 63 00 73,Guayaquil,Guayas,Nuevo,2025-01-27,53,Masculino
+166,Marciano,Jerez,marcia54@example.com,+34 987 577 691,Guayaquil,Guayas,Premium,2025-10-21,46,No especificado
+167,Eufemia,Alcaraz,dcasares@example.net,+34982 903 296,Baños,Tungurahua,Corporativo,2026-02-26,20,Masculino
+168,Marta,Bartolomé,frueda@example.net,+34722 576 531,Gualaceo,Azuay,Premium,2025-09-25,22,No especificado
+169,Vera,Vendrell,yriera@example.com,+34 823 53 73 72,Durán,Guayas,Nuevo,2023-12-04,45,Masculino
+170,Marc,Ibañez,lucianaperalta@example.com,+34825 845 863,Ambato,Tungurahua,Nuevo,2024-07-19,35,Masculino
+171,Luisa,Coca,estebanbonilla@example.org,+34 979492987,Quito,Pichincha,Nuevo,2023-08-24,68,Femenino
+172,Sonia,Valle,matasromulo@example.net,+34945 44 97 23,Baños,Tungurahua,Premium,2024-12-09,25,Femenino
+173,María Manuela,Corral,galianoceferino@example.org,+34 843932819,Santa Rosa,El Oro,Premium,2023-11-30,35,No especificado
+174,Adriana,Pozo,felicianaaraujo@example.com,+34 848965891,Baños,Tungurahua,Premium,2023-04-03,23,No especificado
+175,Angelita,Paz,vguzman@example.net,+34 848 223 552,Cayambe,Pichincha,Corporativo,2023-12-23,56,Femenino
+176,Raquel,Verdejo,abilio44@example.com,+34 848798932,Quito,Pichincha,Nuevo,2024-11-30,61,No especificado
+177,Trinidad,Clavero,canellasgerman@example.org,+34 978 04 49 01,Ambato,Tungurahua,Corporativo,2025-09-09,54,Masculino
+178,Anna,Portillo,cobosrosenda@example.org,+34822979649,Durán,Guayas,Premium,2025-03-01,35,Masculino
+179,Urbano,Matas,franciscomarcelo@example.org,+34700054678,Baños,Tungurahua,Premium,2023-04-26,23,Femenino
+180,Eliana,Sanmartín,estradacristina@example.org,+34818 38 10 89,Gualaceo,Azuay,Corporativo,2024-06-27,38,No especificado
+181,María Luisa,Mir,malmazan@example.net,+34925 733 833,Quito,Pichincha,Corporativo,2024-03-30,44,No especificado
+182,Sebastian,Salazar,edmundo06@example.net,+34978 26 63 41,Portoviejo,Manabí,Premium,2023-10-15,70,No especificado
+183,Epifanio,Santamaria,biniguez@example.net,+34847991202,Cayambe,Pichincha,Frecuente,2024-09-08,38,Femenino
+184,Adán,Mur,narcisa95@example.net,+34978659387,Cuenca,Azuay,Premium,2023-04-27,73,No especificado
+185,Odalis,Mir,chuygalvez@example.com,+34 821 895 562,Rumiñahui,Pichincha,Premium,2023-10-01,44,Masculino
+186,Herminia,Barroso,kaliaga@example.net,+34 822 11 84 08,Samborondón,Guayas,Corporativo,2024-10-27,57,Femenino
+187,María Pilar,Cánovas,ingrid38@example.com,+34 950 126 635,Santa Rosa,El Oro,Frecuente,2024-09-06,31,Femenino
+188,Luisa,Calvet,larranagacrescencia@example.com,+34 883 60 48 46,Ambato,Tungurahua,Corporativo,2025-09-06,46,No especificado
+189,Amando,Ramón,kborrego@example.org,+34 902 81 90 43,Manta,Manabí,Frecuente,2024-08-30,58,No especificado
+190,Manuela,Pera,soleracelestina@example.org,+34874961437,Samborondón,Guayas,Nuevo,2026-01-07,37,No especificado
+191,Carmen,Asenjo,begonaconesa@example.org,+34 879 203 346,Rumiñahui,Pichincha,Premium,2023-04-26,23,Masculino
+192,Sergio,Cortes,patricio16@example.org,+34878 329 746,Cayambe,Pichincha,Frecuente,2023-06-29,59,Masculino
+193,Coral,Mayol,vgomis@example.org,+34 803828902,Portoviejo,Manabí,Corporativo,2025-03-17,44,Femenino
+194,Vicenta,Zaragoza,domingaexposito@example.org,+34972348620,Manta,Manabí,Premium,2023-07-23,53,Masculino
+195,Jesusa,Collado,rupertorozas@example.com,+34976 37 41 97,Manta,Manabí,Nuevo,2023-07-29,73,Masculino
+196,Berta,Vara,teresabilbao@example.org,+34826 499 493,Gualaceo,Azuay,Corporativo,2024-10-20,68,No especificado
+197,Oriana,Nuñez,vitogaya@example.net,+34 800629744,Cuenca,Azuay,Corporativo,2023-06-08,64,Femenino
+198,Reinaldo,Baeza,gbravo@example.net,+34976 002 933,Baños,Tungurahua,Nuevo,2025-02-04,46,No especificado
+199,Antonia,Pozo,larreacristina@example.net,+34948 04 01 50,Portoviejo,Manabí,Corporativo,2025-02-16,53,No especificado
+200,Danilo,Roda,bilbaoabel@example.com,+34978 44 08 95,Portoviejo,Manabí,Corporativo,2024-07-26,73,Masculino
+201,Patricia,Fiol,reinaroma@example.net,+34 944 97 95 75,Machala,El Oro,Premium,2025-10-06,32,Femenino
+202,Íngrid,Moraleda,corallinares@example.org,+34980 253 797,Cayambe,Pichincha,Premium,2024-06-01,63,Femenino
+203,Rogelio,Agustí,jesusa54@example.net,+34 943 35 81 99,Manta,Manabí,Premium,2024-11-02,20,Masculino
+204,Aroa,Batalla,zpereira@example.org,+34 821 50 47 34,Baños,Tungurahua,Frecuente,2025-11-16,73,Femenino
+205,Jafet,Criado,qcasares@example.org,+34 927620792,Rumiñahui,Pichincha,Premium,2026-02-05,18,No especificado
+206,Irma,Estévez,gracia58@example.net,+34 975041356,Durán,Guayas,Nuevo,2024-08-10,22,Femenino
+207,Manuelita,Querol,emperatrizsarabia@example.org,+34 941279803,Gualaceo,Azuay,Premium,2023-05-23,59,Masculino
+208,Olivia,Herrera,faustobeltran@example.net,+34 924 662 323,Gualaceo,Azuay,Corporativo,2023-11-09,58,No especificado
+209,Clementina,Rosselló,beatrizbueno@example.com,+34 806 12 51 91,Manta,Manabí,Frecuente,2025-07-30,33,No especificado
+210,Ambrosio,Calleja,benitezariadna@example.com,+34735125602,Santa Rosa,El Oro,Nuevo,2024-07-15,65,Masculino
+211,Jordán,Acedo,losafanny@example.net,+34 975347977,Manta,Manabí,Frecuente,2024-03-29,46,Masculino
+212,Matilde,Ramirez,qalcantara@example.com,+34748 170 599,Santa Rosa,El Oro,Frecuente,2024-04-12,20,Femenino
+213,Elisabet,Barón,eadan@example.net,+34901 84 84 32,Cayambe,Pichincha,Corporativo,2025-08-31,41,Femenino
+214,Marisela,Piñeiro,eligia98@example.org,+34736 27 88 35,Guayaquil,Guayas,Premium,2023-11-02,54,No especificado
+215,Marcelo,Olmo,tgutierrez@example.com,+34 921 18 01 72,Guayaquil,Guayas,Nuevo,2026-02-06,23,No especificado
+216,Águeda,Prats,rojasinmaculada@example.com,+34 875 900 261,Manta,Manabí,Premium,2025-12-09,55,Masculino
+217,Geraldo,Canet,marianoginer@example.com,+34 943 21 87 02,Durán,Guayas,Corporativo,2024-07-19,47,Femenino
+218,Yaiza,Giménez,dpenalver@example.com,+34 864655502,Machala,El Oro,Premium,2024-05-15,75,Femenino
+219,Soledad,Velázquez,herediaisidora@example.net,+34 742624953,Machala,El Oro,Frecuente,2023-07-03,46,Femenino
+220,Porfirio,Casals,arcocarmina@example.org,+34 877 81 26 83,Baños,Tungurahua,Premium,2024-05-19,62,Femenino
+221,Edgardo,Bayo,tejadafelicia@example.net,+34 818 775 805,Portoviejo,Manabí,Nuevo,2025-12-03,42,Femenino
+222,Teodosio,Méndez,kmendez@example.net,+34822 767 860,Quito,Pichincha,Premium,2024-04-19,54,Femenino
+223,Salomón,Botella,mamen37@example.org,+34 980 50 01 69,Baños,Tungurahua,Corporativo,2024-08-14,19,No especificado
+224,Adora,Reguera,gmari@example.org,+34 960 481 631,Portoviejo,Manabí,Frecuente,2025-08-10,54,No especificado
+225,Jose Francisco,Chico,gonzalobarriga@example.net,+34812 43 23 55,Machala,El Oro,Premium,2023-09-26,71,Femenino
+226,Caridad,Agustín,espanolosvaldo@example.org,+34888741164,Samborondón,Guayas,Corporativo,2023-06-25,32,No especificado
+227,Carmela,Chamorro,sandra63@example.com,+34 928 27 64 67,Samborondón,Guayas,Corporativo,2024-09-05,61,No especificado
+228,Ibán,Ávila,manzanobasilio@example.com,+34 875560993,Machala,El Oro,Frecuente,2024-04-26,75,No especificado
+229,Tristán,Gomis,gabriel65@example.com,+34 883118678,Machala,El Oro,Corporativo,2025-03-20,68,Femenino
+230,Valentín,Hidalgo,tejedorrebeca@example.org,+34 717676031,Rumiñahui,Pichincha,Corporativo,2024-04-10,64,Masculino
+231,Martina,Grande,ghigueras@example.org,+34 848 565 495,Cayambe,Pichincha,Corporativo,2025-10-10,65,Femenino
+232,José Manuel,Quintero,abaro@example.org,+34944750753,Guayaquil,Guayas,Nuevo,2026-02-10,68,No especificado
+233,Belén,Moliner,obarranco@example.com,+34978023150,Gualaceo,Azuay,Nuevo,2023-06-14,34,Femenino
+234,Benigna,Costa,miguela84@example.org,+34 914 57 50 90,Gualaceo,Azuay,Frecuente,2024-12-23,47,Masculino
+235,Piedad,Sierra,adanantonio@example.net,+34921296036,Guayaquil,Guayas,Premium,2024-01-27,72,No especificado
+236,Francisco Javier,Gutiérrez,tborras@example.com,+34 923 913 501,Cuenca,Azuay,Premium,2024-03-26,18,Femenino
+237,Paloma,Aller,marcial31@example.net,+34710 006 510,Ambato,Tungurahua,Premium,2026-02-09,41,No especificado
+238,Ariel,Montoya,casalsfabiana@example.org,+34 741 734 488,Santa Rosa,El Oro,Premium,2023-11-26,70,No especificado
+239,Ernesto,Ballesteros,hmoreno@example.org,+34934129484,Cuenca,Azuay,Nuevo,2025-02-12,48,Masculino
+240,Julieta,Pareja,benigno14@example.org,+34 974 517 672,Baños,Tungurahua,Nuevo,2025-11-04,59,Masculino
+241,Onofre,Reig,trosell@example.org,+34 887 990 562,Santa Rosa,El Oro,Corporativo,2023-12-05,59,Femenino
+242,Efraín,Arana,bonifaciopino@example.org,+34733 25 28 92,Quito,Pichincha,Frecuente,2026-02-27,20,Femenino
+243,Lilia,Riquelme,rosendovillalobos@example.com,+34848 88 01 82,Manta,Manabí,Frecuente,2026-02-08,33,No especificado
+244,Francisco Jose,Catalán,salessaturnino@example.org,+34 807553808,Durán,Guayas,Premium,2024-01-12,41,No especificado
+245,Eladio,Valdés,sotoamando@example.org,+34 843 43 54 66,Santa Rosa,El Oro,Nuevo,2025-10-20,74,Femenino
+246,Jacinta,Quevedo,yesica55@example.net,+34982 90 51 06,Machala,El Oro,Premium,2025-06-25,57,Femenino
+247,Hipólito,Zapata,mfonseca@example.net,+34 885 68 85 88,Cuenca,Azuay,Corporativo,2024-11-11,31,Femenino
+248,Custodia,Cifuentes,rgimeno@example.com,+34 978 099 561,Manta,Manabí,Corporativo,2023-07-22,24,No especificado
+249,Montserrat,Paredes,marta62@example.com,+34880463883,Gualaceo,Azuay,Frecuente,2024-05-05,43,Femenino
+250,Manu,Barroso,encarnacionfrancisco@example.org,+34974 52 69 47,Guayaquil,Guayas,Premium,2025-09-15,23,No especificado
+251,Ileana,Pont,zfabregat@example.net,+34983 91 10 03,Samborondón,Guayas,Frecuente,2023-09-20,21,Femenino
+252,Geraldo,Peinado,dominga47@example.org,+34980441742,Guayaquil,Guayas,Nuevo,2025-05-29,22,No especificado
+253,Martín,Saez,ogarmendia@example.net,+34 844 932 557,Samborondón,Guayas,Nuevo,2023-08-28,70,Masculino
+254,Marc,Torrecilla,vquesada@example.net,+34 979 820 619,Cuenca,Azuay,Frecuente,2024-03-15,35,Masculino
+255,Loida,Castañeda,pandrade@example.net,+34 880 564 283,Samborondón,Guayas,Corporativo,2025-08-05,69,Masculino
+256,Nazario,Navarrete,fatima48@example.org,+34948 42 12 22,Rumiñahui,Pichincha,Frecuente,2026-02-12,26,Masculino
+257,Ainara,Serna,donatomate@example.net,+34728645204,Cuenca,Azuay,Corporativo,2025-07-12,19,Masculino
+258,Fulgencio,Marí,albina13@example.com,+34 949 06 57 43,Cuenca,Azuay,Nuevo,2025-03-01,65,Femenino
+259,Moisés,Cepeda,aureliograu@example.net,+34 985 09 32 88,Ambato,Tungurahua,Frecuente,2023-12-09,48,Femenino
+260,Nerea,Ferrero,roldanbarba@example.org,+34824 98 91 35,Cuenca,Azuay,Premium,2023-08-11,50,Masculino
+261,Leonor,Murcia,oabella@example.com,+34 976 634 743,Ambato,Tungurahua,Corporativo,2024-01-25,47,No especificado
+262,Teodora,Martinez,vilardesiderio@example.net,+34 920 06 36 22,Quito,Pichincha,Premium,2023-12-03,72,Femenino
+263,Claudia,Enríquez,elpidiofarre@example.net,+34921321405,Manta,Manabí,Premium,2023-06-19,63,Femenino
+264,Eladio,Baena,dmanzano@example.com,+34 848 033 327,Quito,Pichincha,Corporativo,2024-03-30,56,Masculino
+265,María,Alemán,vitoportillo@example.com,+34982016524,Quito,Pichincha,Corporativo,2024-11-06,57,No especificado
+266,Vidal,Doménech,ramirezmaria-jose@example.net,+34972280499,Baños,Tungurahua,Premium,2025-02-03,56,No especificado
+267,Heriberto,Antúnez,nhidalgo@example.org,+34 828754122,Gualaceo,Azuay,Premium,2023-07-03,24,No especificado
+268,Loreto,Carro,vicenta23@example.org,+34 874821474,Rumiñahui,Pichincha,Nuevo,2024-06-19,45,Femenino
+269,Florinda,Sebastián,villenadebora@example.com,+34 842 66 61 00,Durán,Guayas,Corporativo,2024-09-25,70,Femenino
+270,Aurelio,Navas,nacio86@example.net,+34981 204 789,Portoviejo,Manabí,Frecuente,2024-10-13,38,Femenino
+271,Tatiana,Noguera,emma31@example.org,+34 901 466 047,Gualaceo,Azuay,Corporativo,2025-12-28,27,No especificado
+272,Tadeo,Almazán,narciso43@example.com,+34 972 02 08 95,Manta,Manabí,Frecuente,2024-05-11,71,Masculino
+273,Angelita,Solsona,cidsalomon@example.com,+34800 053 508,Cayambe,Pichincha,Frecuente,2026-03-29,65,No especificado
+274,Rómulo,Miranda,habella@example.com,+34 925 360 636,Cuenca,Azuay,Frecuente,2024-03-05,55,No especificado
+275,Bernardo,Perera,moyaazeneth@example.org,+34849887372,Baños,Tungurahua,Frecuente,2023-06-03,44,Femenino
+276,Víctor,López,monreallazaro@example.org,+34 848 748 586,Santa Rosa,El Oro,Frecuente,2023-06-29,36,No especificado
+277,Hector,Carro,goniroque@example.org,+34832 32 04 16,Gualaceo,Azuay,Frecuente,2024-01-31,54,No especificado
+278,Toribio,Badía,uramis@example.com,+34872086055,Guayaquil,Guayas,Premium,2024-09-29,32,Masculino
+279,Perlita,Francisco,luisguerrero@example.net,+34 848 46 12 07,Gualaceo,Azuay,Frecuente,2024-08-31,66,Femenino
+280,Jeremías,Moreno,guerrerotadeo@example.org,+34 941 715 398,Ambato,Tungurahua,Premium,2024-11-20,72,No especificado
+281,Itziar,Juan,qmoll@example.com,+34928076146,Ambato,Tungurahua,Corporativo,2024-10-04,19,Masculino
+282,Sonia,Santos,ngallardo@example.com,+34 821 03 30 44,Gualaceo,Azuay,Corporativo,2024-07-13,40,Masculino
+283,Lupita,Murillo,lpalmer@example.net,+34947026029,Guayaquil,Guayas,Premium,2024-07-19,22,Masculino
+284,Aarón,Doménech,blazqueznicodemo@example.net,+34845546707,Machala,El Oro,Frecuente,2025-05-08,65,No especificado
+285,María Carmen,Zamorano,ksoriano@example.org,+34875 939 001,Durán,Guayas,Premium,2024-06-23,47,Femenino
+286,Carla,Pozuelo,bquintero@example.net,+34 875827139,Durán,Guayas,Corporativo,2024-05-31,64,Femenino
+287,Rosa,Benavent,hermenegildocobos@example.net,+34 887 390 292,Ambato,Tungurahua,Frecuente,2025-04-29,27,Masculino
+288,Ariadna,Bastida,reciodominga@example.net,+34902 392 865,Ambato,Tungurahua,Frecuente,2024-03-29,35,Femenino
+289,Lucila,Tomas,trinidadmontero@example.net,+34972 833 446,Santa Rosa,El Oro,Premium,2024-11-12,56,Femenino
+290,Porfirio,Lladó,caridad47@example.net,+34925 263 202,Portoviejo,Manabí,Nuevo,2024-09-25,66,No especificado
+291,Azeneth,Solano,danbenito@example.net,+34920434151,Cayambe,Pichincha,Premium,2025-12-16,25,Femenino
+292,Augusto,Carballo,evita70@example.net,+34846003635,Santa Rosa,El Oro,Corporativo,2024-04-10,20,Masculino
+293,Eli,Montaña,rosa-maria46@example.net,+34 821 84 07 80,Manta,Manabí,Frecuente,2023-11-16,31,Femenino
+294,Sabina,Moll,blucas@example.org,+34827946510,Guayaquil,Guayas,Corporativo,2026-01-06,36,Femenino
+295,Emilia,Cañete,iglesiateresita@example.com,+34734 039 113,Quito,Pichincha,Premium,2025-10-03,65,Femenino
+296,Feliciana,Blasco,ebaeza@example.com,+34 946904202,Guayaquil,Guayas,Premium,2023-09-24,52,No especificado
+297,Cruz,Valera,correagisela@example.com,+34941 889 593,Samborondón,Guayas,Corporativo,2024-09-17,22,Femenino
+298,Eugenio,Montes,reguloheras@example.net,+34972 838 017,Machala,El Oro,Premium,2024-12-11,19,Femenino
+299,Leandra,Huerta,acedofausto@example.net,+34 866151285,Cayambe,Pichincha,Premium,2024-07-22,54,Femenino
+300,Zaida,Jurado,cletocases@example.org,+34 984 81 20 98,Santa Rosa,El Oro,Corporativo,2025-08-30,25,Femenino
